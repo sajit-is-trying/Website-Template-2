@@ -1,4 +1,3 @@
-# Website-Template-2
-Responsive website template 
-using bootstrap 
+# Article Based Website
+Built Simple Article Website
 
